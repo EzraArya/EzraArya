@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  I'm currently learning <strong>NextJs</strong>
+  I'm currently learning <strong>iOS Development</strong>
 </div>
 
 <h2 style="margin-top: 30px; border: none">👋 Connect with me</h2>
